@@ -1,0 +1,14 @@
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculadoraDeVolumeConsoleApp\bin\Debug\net9.0\CalculadoraDeVolumeConsoleApp.exe
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculadoraDeVolumeConsoleApp\bin\Debug\net9.0\CalculadoraDeVolumeConsoleApp.deps.json
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculadoraDeVolumeConsoleApp\bin\Debug\net9.0\CalculadoraDeVolumeConsoleApp.runtimeconfig.json
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculadoraDeVolumeConsoleApp\bin\Debug\net9.0\CalculadoraDeVolumeConsoleApp.dll
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculadoraDeVolumeConsoleApp\bin\Debug\net9.0\CalculadoraDeVolumeConsoleApp.pdb
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculadoraDeVolumeConsoleApp\obj\Debug\net9.0\CalculadoraDeVolumeConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculadoraDeVolumeConsoleApp\obj\Debug\net9.0\CalculadoraDeVolumeConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculadoraDeVolumeConsoleApp\obj\Debug\net9.0\CalculadoraDeVolumeConsoleApp.AssemblyInfo.cs
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculadoraDeVolumeConsoleApp\obj\Debug\net9.0\CalculadoraDeVolumeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculadoraDeVolumeConsoleApp\obj\Debug\net9.0\CalculadoraDeVolumeConsoleApp.dll
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculadoraDeVolumeConsoleApp\obj\Debug\net9.0\refint\CalculadoraDeVolumeConsoleApp.dll
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculadoraDeVolumeConsoleApp\obj\Debug\net9.0\CalculadoraDeVolumeConsoleApp.pdb
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculadoraDeVolumeConsoleApp\obj\Debug\net9.0\CalculadoraDeVolumeConsoleApp.genruntimeconfig.cache
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculadoraDeVolumeConsoleApp\obj\Debug\net9.0\ref\CalculadoraDeVolumeConsoleApp.dll

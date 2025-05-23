@@ -1,0 +1,28 @@
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ComissaoSobreVendaAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ComissaoSobreVendaAppConsole.AssemblyInfoInputs.cache
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ComissaoSobreVendaAppConsole.AssemblyInfo.cs
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ComissaoSobreVendaAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\bin\Debug\net9.0\ComissaoSobreVendaAppConsole.exe
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\bin\Debug\net9.0\ComissaoSobreVendaAppConsole.deps.json
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\bin\Debug\net9.0\ComissaoSobreVendaAppConsole.runtimeconfig.json
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\bin\Debug\net9.0\ComissaoSobreVendaAppConsole.dll
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\bin\Debug\net9.0\ComissaoSobreVendaAppConsole.pdb
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ComissaoSobreVendaAppConsole.dll
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\refint\ComissaoSobreVendaAppConsole.dll
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ComissaoSobreVendaAppConsole.pdb
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ComissaoSobreVendaAppConsole.genruntimeconfig.cache
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ref\ComissaoSobreVendaAppConsole.dll
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\bin\Debug\net9.0\ComissaoSobreVendaAppConsole.exe
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\bin\Debug\net9.0\ComissaoSobreVendaAppConsole.deps.json
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\bin\Debug\net9.0\ComissaoSobreVendaAppConsole.runtimeconfig.json
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\bin\Debug\net9.0\ComissaoSobreVendaAppConsole.dll
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\bin\Debug\net9.0\ComissaoSobreVendaAppConsole.pdb
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ComissaoSobreVendaAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ComissaoSobreVendaAppConsole.AssemblyInfoInputs.cache
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ComissaoSobreVendaAppConsole.AssemblyInfo.cs
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ComissaoSobreVendaAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ComissaoSobreVendaAppConsole.dll
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\refint\ComissaoSobreVendaAppConsole.dll
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ComissaoSobreVendaAppConsole.pdb
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ComissaoSobreVendaAppConsole.genruntimeconfig.cache
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\ComissaoSobreVendaAppConsole\obj\Debug\net9.0\ref\ComissaoSobreVendaAppConsole.dll

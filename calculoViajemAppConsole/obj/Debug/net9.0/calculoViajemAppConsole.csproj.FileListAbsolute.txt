@@ -1,0 +1,14 @@
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\calculoViajemAppConsole\bin\Debug\net9.0\calculoViajemAppConsole.exe
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\calculoViajemAppConsole\bin\Debug\net9.0\calculoViajemAppConsole.deps.json
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\calculoViajemAppConsole\bin\Debug\net9.0\calculoViajemAppConsole.runtimeconfig.json
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\calculoViajemAppConsole\bin\Debug\net9.0\calculoViajemAppConsole.dll
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\calculoViajemAppConsole\bin\Debug\net9.0\calculoViajemAppConsole.pdb
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\calculoViajemAppConsole\obj\Debug\net9.0\calculoViajemAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\calculoViajemAppConsole\obj\Debug\net9.0\calculoViajemAppConsole.AssemblyInfoInputs.cache
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\calculoViajemAppConsole\obj\Debug\net9.0\calculoViajemAppConsole.AssemblyInfo.cs
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\calculoViajemAppConsole\obj\Debug\net9.0\calculoViajemAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\calculoViajemAppConsole\obj\Debug\net9.0\calculoViajemAppConsole.dll
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\calculoViajemAppConsole\obj\Debug\net9.0\refint\calculoViajemAppConsole.dll
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\calculoViajemAppConsole\obj\Debug\net9.0\calculoViajemAppConsole.pdb
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\calculoViajemAppConsole\obj\Debug\net9.0\calculoViajemAppConsole.genruntimeconfig.cache
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\calculoViajemAppConsole\obj\Debug\net9.0\ref\calculoViajemAppConsole.dll

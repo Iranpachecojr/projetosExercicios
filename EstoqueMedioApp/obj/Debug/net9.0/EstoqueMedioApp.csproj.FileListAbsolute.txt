@@ -1,0 +1,14 @@
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\EstoqueMedioApp\bin\Debug\net9.0\EstoqueMedioApp.exe
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\EstoqueMedioApp\bin\Debug\net9.0\EstoqueMedioApp.deps.json
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\EstoqueMedioApp\bin\Debug\net9.0\EstoqueMedioApp.runtimeconfig.json
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\EstoqueMedioApp\bin\Debug\net9.0\EstoqueMedioApp.dll
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\EstoqueMedioApp\bin\Debug\net9.0\EstoqueMedioApp.pdb
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\EstoqueMedioApp\obj\Debug\net9.0\EstoqueMedioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\EstoqueMedioApp\obj\Debug\net9.0\EstoqueMedioApp.AssemblyInfoInputs.cache
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\EstoqueMedioApp\obj\Debug\net9.0\EstoqueMedioApp.AssemblyInfo.cs
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\EstoqueMedioApp\obj\Debug\net9.0\EstoqueMedioApp.csproj.CoreCompileInputs.cache
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\EstoqueMedioApp\obj\Debug\net9.0\EstoqueMedioApp.dll
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\EstoqueMedioApp\obj\Debug\net9.0\refint\EstoqueMedioApp.dll
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\EstoqueMedioApp\obj\Debug\net9.0\EstoqueMedioApp.pdb
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\EstoqueMedioApp\obj\Debug\net9.0\EstoqueMedioApp.genruntimeconfig.cache
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\EstoqueMedioApp\obj\Debug\net9.0\ref\EstoqueMedioApp.dll

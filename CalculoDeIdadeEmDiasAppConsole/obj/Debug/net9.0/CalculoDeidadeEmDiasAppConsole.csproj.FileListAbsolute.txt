@@ -1,0 +1,14 @@
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculoDeidadeEmDiasAppConsole\obj\Debug\net9.0\CalculoDeidadeEmDiasAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculoDeidadeEmDiasAppConsole\obj\Debug\net9.0\CalculoDeidadeEmDiasAppConsole.AssemblyInfoInputs.cache
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculoDeidadeEmDiasAppConsole\obj\Debug\net9.0\CalculoDeidadeEmDiasAppConsole.AssemblyInfo.cs
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculoDeidadeEmDiasAppConsole\obj\Debug\net9.0\CalculoDeidadeEmDiasAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculoDeidadeEmDiasAppConsole\bin\Debug\net9.0\CalculoDeidadeEmDiasAppConsole.exe
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculoDeidadeEmDiasAppConsole\bin\Debug\net9.0\CalculoDeidadeEmDiasAppConsole.deps.json
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculoDeidadeEmDiasAppConsole\bin\Debug\net9.0\CalculoDeidadeEmDiasAppConsole.runtimeconfig.json
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculoDeidadeEmDiasAppConsole\bin\Debug\net9.0\CalculoDeidadeEmDiasAppConsole.dll
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculoDeidadeEmDiasAppConsole\bin\Debug\net9.0\CalculoDeidadeEmDiasAppConsole.pdb
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculoDeidadeEmDiasAppConsole\obj\Debug\net9.0\CalculoDeidadeEmDiasAppConsole.dll
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculoDeidadeEmDiasAppConsole\obj\Debug\net9.0\refint\CalculoDeidadeEmDiasAppConsole.dll
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculoDeidadeEmDiasAppConsole\obj\Debug\net9.0\CalculoDeidadeEmDiasAppConsole.pdb
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculoDeidadeEmDiasAppConsole\obj\Debug\net9.0\CalculoDeidadeEmDiasAppConsole.genruntimeconfig.cache
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\CalculoDeidadeEmDiasAppConsole\obj\Debug\net9.0\ref\CalculoDeidadeEmDiasAppConsole.dll

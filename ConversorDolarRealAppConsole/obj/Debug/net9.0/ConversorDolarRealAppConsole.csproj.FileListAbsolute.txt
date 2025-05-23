@@ -1,0 +1,14 @@
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ConversorDolarRealAppConsole\obj\Debug\net9.0\ConversorDolarRealAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ConversorDolarRealAppConsole\obj\Debug\net9.0\ConversorDolarRealAppConsole.AssemblyInfoInputs.cache
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ConversorDolarRealAppConsole\obj\Debug\net9.0\ConversorDolarRealAppConsole.AssemblyInfo.cs
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ConversorDolarRealAppConsole\obj\Debug\net9.0\ConversorDolarRealAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ConversorDolarRealAppConsole\bin\Debug\net9.0\ConversorDolarRealAppConsole.exe
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ConversorDolarRealAppConsole\bin\Debug\net9.0\ConversorDolarRealAppConsole.deps.json
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ConversorDolarRealAppConsole\bin\Debug\net9.0\ConversorDolarRealAppConsole.runtimeconfig.json
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ConversorDolarRealAppConsole\bin\Debug\net9.0\ConversorDolarRealAppConsole.dll
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ConversorDolarRealAppConsole\bin\Debug\net9.0\ConversorDolarRealAppConsole.pdb
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ConversorDolarRealAppConsole\obj\Debug\net9.0\ConversorDolarRealAppConsole.dll
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ConversorDolarRealAppConsole\obj\Debug\net9.0\refint\ConversorDolarRealAppConsole.dll
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ConversorDolarRealAppConsole\obj\Debug\net9.0\ConversorDolarRealAppConsole.pdb
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ConversorDolarRealAppConsole\obj\Debug\net9.0\ConversorDolarRealAppConsole.genruntimeconfig.cache
+C:\Users\ipach\OneDrive\Documentos\projetos\projetosExercicios\ConversorDolarRealAppConsole\obj\Debug\net9.0\ref\ConversorDolarRealAppConsole.dll

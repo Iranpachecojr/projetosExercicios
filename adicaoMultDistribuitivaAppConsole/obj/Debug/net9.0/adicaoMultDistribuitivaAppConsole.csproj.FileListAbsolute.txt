@@ -1,0 +1,14 @@
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\adicaoMultDistribuitivaAppConsole\bin\Debug\net9.0\adicaoMultDistribuitivaAppConsole.exe
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\adicaoMultDistribuitivaAppConsole\bin\Debug\net9.0\adicaoMultDistribuitivaAppConsole.deps.json
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\adicaoMultDistribuitivaAppConsole\bin\Debug\net9.0\adicaoMultDistribuitivaAppConsole.runtimeconfig.json
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\adicaoMultDistribuitivaAppConsole\bin\Debug\net9.0\adicaoMultDistribuitivaAppConsole.dll
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\adicaoMultDistribuitivaAppConsole\bin\Debug\net9.0\adicaoMultDistribuitivaAppConsole.pdb
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\adicaoMultDistribuitivaAppConsole\obj\Debug\net9.0\adicaoMultDistribuitivaAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\adicaoMultDistribuitivaAppConsole\obj\Debug\net9.0\adicaoMultDistribuitivaAppConsole.AssemblyInfoInputs.cache
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\adicaoMultDistribuitivaAppConsole\obj\Debug\net9.0\adicaoMultDistribuitivaAppConsole.AssemblyInfo.cs
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\adicaoMultDistribuitivaAppConsole\obj\Debug\net9.0\adicaoMultDistribuitivaAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\adicaoMultDistribuitivaAppConsole\obj\Debug\net9.0\adicaoMultDistribuitivaAppConsole.dll
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\adicaoMultDistribuitivaAppConsole\obj\Debug\net9.0\refint\adicaoMultDistribuitivaAppConsole.dll
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\adicaoMultDistribuitivaAppConsole\obj\Debug\net9.0\adicaoMultDistribuitivaAppConsole.pdb
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\adicaoMultDistribuitivaAppConsole\obj\Debug\net9.0\adicaoMultDistribuitivaAppConsole.genruntimeconfig.cache
+C:\Users\Iran Pacheco Jr\Downloads\projetos\projetosExercicios\adicaoMultDistribuitivaAppConsole\obj\Debug\net9.0\ref\adicaoMultDistribuitivaAppConsole.dll
