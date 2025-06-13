@@ -15,7 +15,7 @@ class Program
         if(!int.TryParse(Console.ReadLine(), out int QuantMeses));
 
         Console.WriteLine("Por favor digite dias: ");
-        if(!int.TryParse(Console.ReadLine(), out int QuantDias));
+        if(!int.TryParse(Console.ReadLine(), out int QuantDias));2
 
         int DiasEmAnos = QuantAnos * 365;
         int DiasEmMeses = QuantMeses * 30;

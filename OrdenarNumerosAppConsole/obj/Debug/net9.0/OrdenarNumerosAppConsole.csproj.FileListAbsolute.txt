@@ -1,0 +1,15 @@
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\bin\Debug\net9.0\OrdenarNumerosAppConsole.exe
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\bin\Debug\net9.0\OrdenarNumerosAppConsole.deps.json
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\bin\Debug\net9.0\OrdenarNumerosAppConsole.runtimeconfig.json
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\bin\Debug\net9.0\OrdenarNumerosAppConsole.dll
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\bin\Debug\net9.0\OrdenarNumerosAppConsole.pdb
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\obj\Debug\net9.0\OrdenarNumerosAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\obj\Debug\net9.0\OrdenarNumerosAppConsole.AssemblyInfoInputs.cache
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\obj\Debug\net9.0\OrdenarNumerosAppConsole.AssemblyInfo.cs
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\obj\Debug\net9.0\OrdenarNumerosAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\obj\Debug\net9.0\OrdenarNumerosAppConsole.sourcelink.json
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\obj\Debug\net9.0\OrdenarNumerosAppConsole.dll
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\obj\Debug\net9.0\refint\OrdenarNumerosAppConsole.dll
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\obj\Debug\net9.0\OrdenarNumerosAppConsole.pdb
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\obj\Debug\net9.0\OrdenarNumerosAppConsole.genruntimeconfig.cache
+C:\Users\Iran Pacheco Jr\OneDrive\projetos\projetosExercicios\OrdenarNumerosAppConsole\obj\Debug\net9.0\ref\OrdenarNumerosAppConsole.dll
